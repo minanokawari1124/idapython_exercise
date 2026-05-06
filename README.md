@@ -14,6 +14,5 @@ https://www.mandiant.com/resources/blog/flareon9-challenge-solutions
 The first step is to practice decoding and commenting decoded strings from a encrypted strings start address as input.  
 Finally, it looks for all the addresses of functions that decode strings from the characteristic patterns, parses their arguments, and decodes all encrypted strings.
 
-
 Ref. 1: https://www.zscaler.jp/blogs/security-research/return-emotet-malware-analysis  
 Ref. 2: https://jsac.jpcert.or.jp/archive/2021/pdf/JSAC2021_workshop_malware-analysis_jp.pdf 
